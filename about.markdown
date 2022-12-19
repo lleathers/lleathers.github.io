@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Here are startups I have ideated and are now live:  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+MenuYouToo!: Global Co-Working That Facilitates Transactions  
+[MenuYouToo!, service description and CTA](https://menuyoutoo.com)  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Neighborbaked: Food Gifting for Local Discovery  
+[Neighborbaked, signup](https://neighborbaked.com)  
+[Neighborbaked, gifting label printer MVP](https://print.neighborbaked.com)  
+
+DeliverHealthy: Crowdsourced Farm-to-Table Fulfillment for Local Discovery  
+[DeliverHealthy, crowdsourced fulfillment for local discovery signup](http://now.deliverhealthy.com)  
+[DeliverHealthy, hyperlocal sourcing Shopify store for restaurants and individuals](https://deliverhealthy.com)  
+[DeliverHealthy, custom stores for healthy food as fundraising](http://try.deliverhealthy.com)  
+
+Shaofood: DeliverHealthy in Long Island City  
+[Shaofood, signup](https://shaofood.com)  
+
+InversePayroll: Subscriber Authored Service Contract Payment Platform  
+[InversePayroll, signup](https://inversepayroll.com)  
 
 
-[jekyll-organization]: https://github.com/jekyll
+
