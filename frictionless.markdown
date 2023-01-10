@@ -32,4 +32,9 @@ When we make exchanges _practical-frictionless_, we dignify and incentivize buye
 Contact us today, to discover what we can do for each other.  At this time, we suggest a $99 per month subscription to meet unlimited other members for an exchange.  There will be limited availability to co-working space in select cities.  There will be a mobile application to help.  In addition, if you have inventory that you want fulfilled, we are asking _DHFM_ members to consider participation in mutual fulfillment, such that the entire world becomes, to you, a shelf to showcase, promote, and sell your products. 
 
 
--_Larry Revander Leathers Jr._, co-Founder of [Deliver Healthy](/deliverhealthy/) 
+-_Larry Revander Leathers Jr._, co-Founder of [Deliver Healthy](/deliverhealthy/)    
+
+email: _larry(dot)leathers(at)deliverhealthy.com_   
+[Facebook](https://www.facebook.com/larry.r.leathers)   
+[LinkedIn](https://linkedin.com/in/larryleathers)   
+
