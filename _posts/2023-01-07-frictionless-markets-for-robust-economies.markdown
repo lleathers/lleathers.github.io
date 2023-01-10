@@ -32,7 +32,7 @@ What does this all mean?
 
 ## Ultimately, buyers _are_ money.  They do not need to have it.   
 
-Consider your calendar as a potential bank of your very own fiat currency that you grant "bearers of your contracts" access to, upon request.  Inasmuch as you live, time is literally money, in the form of services you or those you have delegated can perform, in set periods you have expressly committed toward contract performance in accordance with guarantees, you, in consultation with a market, have prescribed.  You do not need permission from any Western government to grant loans, in denominations of your "contract measured labor" and or "contract measured calendaring", to others.  
+Consider your calendar as a potential bank of your very own fiat currency that you grant "bearers of your contracts" access to, upon request.  Inasmuch as you live, time is literally money, in the form of services you or those you have delegated can perform, in set periods you have expressly committed toward contract performance in accordance with guarantees, you, in consultation with a market, have prescribed.  You do not need permission from any Western government to pay debts, in denominations of your "contract measured labor" and or "contract measured calendaring", to others.  
 
 Yes indeed.  You are money!  Everyone is.  Sellers can accept buyer promises to enable this wealth.   
 
