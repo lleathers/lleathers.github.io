@@ -14,7 +14,7 @@ DHFM brokers cash and other markets for its members' service contracts.  Enginee
 
 ## How does this work?   
 
-Every Deliver Healthy Frictionless Markets member, who trains and serves the smartphone camera production crew, gets a skilled production crew to tell stories for only $99/month!  Deliver Healthy Studios is _included_ in the Deliver Healthy Frictionless Markets subscription service.  
+Every Deliver Healthy Frictionless Markets member, who trains and serves the smartphone camera production crew, gets a skilled production crew to help tell stories for only $99/month!  Deliver Healthy Studios is _included_ in the Deliver Healthy Frictionless Markets subscription service.  
 
 -_Larry Revander Leathers Jr._, co-Founder of [Deliver Healthy](/deliverhealthy/)
 
